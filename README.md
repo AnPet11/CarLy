@@ -14,5 +14,8 @@ Kui müüd auto lehel, siis saad määratud summa oma kontole. Kui auto oli kasu
 Kui ostad, siis auto ilmub su profiilis.
 
 ## Wireframe
-Veel tuleb siia MUUDAN
+Veel tuleb siia 
+
+
+Järeleksam 21.01.2022
 
